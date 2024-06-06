@@ -1,0 +1,1 @@
+ALANTO stands for "Alat Pembersih Lantai Otomatis" or Automatic Floor Cleaning Device. This device was developed to fulfill the project assignment for the "Introduction to Engineering and Design" course at ITB. It utilizes two microcontrollers, namely Arduino Uno for the motion control system and Arduino Nano for the water pump system.
